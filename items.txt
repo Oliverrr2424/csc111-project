@@ -1,0 +1,20 @@
+26 517 5 1 Cheat_Sheet Congratulation! Here is the Cheat Sheet that contains all of the formulas you need during the test. Here! You would also need a pen, right? It is just next to RB at RC. 
+END
+75 517 10 2 Lucky_Exam_pen You got me! I'll be able to help you with the test I am going to take. However, I miss T Card so much. I feel like he is at the edge of the Soccer Field. 
+END
+561 517 8 1 T_card Long time no see! You need to find your GLASSES(around University College which is down next to me)! It would be easier to read text. Trust me! 
+END 
+896 517 2 2 Watch You need to hurry up. Time is running out for you. You do not want to miss the test, right? The reference Sheet is next to you on the left-hand side, MP.  
+END
+450 517 9 2 Reference_Sheet Do you think the reference sheet help? Never mind, now it is time to get your calculator. It is also in the Sidney Smith hall which is located above you. 
+END
+134 517 2 5 Backpack I will carry your items for you now! Please drink some water. Oh right, you do not hav eyour water bottle yet, or do you? If you don't, it is at the New College down to the map.  
+END
+162 517 3 3 Water bottle DRINK WATER! 
+END
+698 517 15 2 Glasses Yo~ Is it easier for you to read the text now? I said TRUST ME! Then you need a watch to check the time of the test. It is in the middle of the Landmark. 
+END
+331 517 5 2 Calculator 1 + 1 =? Don't forget your eraser, it is just near where I am at. 
+END
+346 517 8 1 Eraser Hi! Here I am. Would it be more convenient for you to carry these things in a backpack. I think so! It is at the AC!!  
+END

@@ -1,0 +1,163 @@
+LOCATION
+0 0
+0
+That way is blocked.
+That way is blocked.
+END
+
+LOCATION
+1 36
+5
+You are on the first floor of the Robarts Library. There is an empty study room to the South, an exit from the library to the East.
+You are on the first floor of the Robarts Library. It's usually crowded at this time of the day, but today it's eerily quiet.
+Only a few students are studying inside one of the study rooms. You better not disturb them. A librarian stands near the
+service desk, looking bored and sleepy. There is an empty study room to the South, an exit from the library to the East.
+END
+
+LOCATION
+17 18
+5
+This study room is completely empty.
+You are in an empty study room. And by empty, we mean, absolutely empty. All the tables and chairs have been taken out,
+the whiteboards taken off the wall, not even the carpeting is left. Are they planning to do something else with this space?
+END
+
+LOCATION
+38 39
+5
+You are outside the Robarts library.
+You are outside the Robarts library on a crowded street. There is a smell of coffee in the air.
+END
+
+LOCATION
+555 674
+5
+Soccer court: You are at the University's Soccer Court.
+Surrounded by a high fence, the University's Soccer Court buzzes with energy. The sound of a soccer ball being kicked echoes, and shouts of encouragement and friendly competition fill the air. Students in colourful jerseys move swiftly across the green turf, while others cheer from the sidelines. A small stand with sports equipment lies to the North, and the path to the main campus stretches out to the East.
+END
+
+LOCATION
+572 573
+5
+You are outside the University's Soccer Court.
+You are outside the University's Soccer Court in a narrow way. The building in front of you is the University College.
+END
+
+LOCATION
+676 784
+5
+You are inside the historic University College.
+The grandeur of University College surrounds you. Its walls, adorned with centuries-old art, echo with the soft murmurs of students discussing their latest lectures. The corridors are lined with portraits of notable alumni, their eyes seeming to follow you. A grand staircase leads to the upper floors to the West, while the exit to the college's lush gardens lies to the South.
+END
+
+LOCATION
+675 676
+5
+You are outside the University College.
+You are outside the University College and standing in between the King's College Circle.
+END
+
+LOCATION
+518 554
+5
+You are at the entrance of the Bahen Centre for Information Technology.
+The modern façade of the Bahen Centre for Information Technology stands in contrast to the older campus buildings. Inside, the atmosphere is buzzing with the sound of ideas being exchanged among tech enthusiasts and students tapping away on laptops. The walls are lined with posters advertising tech talks and coding competitions. 
+END
+
+LOCATION
+517 518
+5
+You are outside the Bahen Centre for Information Technology.
+You are outside the Bahen Centre for Information Technology. The intersection is crowded since everyone is waiting for the red light to turn green.
+END
+
+LOCATION
+103 151
+5
+You are in the bustling Athletic Centre.
+The Athletic Centre is a hive of activity. The sound of sneakers squeaking on gym floors, weights clanking, and the rhythmic hum of treadmills fills the air. Students and staff in athletic gear are seen engaged in various forms of exercise. A swimming pool is visible through a glass wall to the East, and the exit to the campus grounds lies to the West.
+END
+
+LOCATION
+152 153
+5
+You are outside the Athletic Centre.
+You are outside the Athletic Centre. Many enter sporting only a sports short sleeve, which stands out much from the other people who are all dressed in bulky coats. 
+END
+
+LOCATION
+39 102
+5
+You are inside the Rotman Commerce Building.
+The interior of the Rotman Commerce Building exudes a sleek, professional atmosphere. Polished floors and glass-walled offices line the spacious hallways. You can hear the muffled sounds of lectures and discussions emanating from classrooms, where future business leaders are being shaped. Students in smart attire move purposefully between rooms, some engaged in deep conversation, others buried in their laptops.
+END
+
+LOCATION
+37 38
+5
+You are outside the Rotman Commerce Building.
+You are outside the Rotman Commerce Building. Plenty of students are lining up in front of various dining cars.
+END
+
+LOCATION
+196 406
+5
+You are at the east entrance of Sidney Smith Hall. On the left side of the large hall is Second Cup, a coffee shop.
+You are on the ground floor of Sidney Smith Hall. As you walk into it, you are confronted by the aroma of coffee. A lengthy lineup extends all the way to the west side of the coffee establishment Second Cup. As the weather got colder and colder, everyone was clutching a steaming cup of coffee. The eight cozy armchairs are occupied, as usual, by people using iPads or laptops on their laps. 
+End
+
+LOCATION
+341 342
+5
+You are outside the Sidney Smith Hall.
+You are outside the Sidney Smith Hall. Tickets for the New Year's Activity are being sold by the club UTCSSA on your right side downstair.
+END
+
+LOCATION
+153 195
+5
+You are inside the New College.
+You are inside the New College which is one of the youngest and lively colleges in the University of Toronto. They seem to be doing some publicity campaign for a basketball game that is coming up. "Do you wanna join our team?" You were taken aback by this abrupt greeting.
+END
+
+LOCATION
+181 182
+5
+You are outside the New College.
+You are outside the New College. A school bus left just in front of you.
+END
+
+LOCATION
+408 516
+5
+You are on the first floor of the Mclennan Physical Laboratories.
+You are on the first floor of the Mclennan Physical Laboratories. The normally bustling hall is eerily vacant today. You look up and suddenly see Dr. Cui walking toward you. Subsequently, she pivoted and approached another exit leading in the other direction. 
+END
+
+LOCATION
+407 408
+5
+You are outside the Mclennan Physical Laboratories.
+You are outside the Mclennan Physical Laboratories. In front of you are two rows of leafless trees that are swaying.
+END
+
+LOCATION
+786 1006
+5
+You are at the Landmark.
+You are at the Landmark. The grass is covered with snow. Each blade of grass is now adorned with a delicate layer of frost, creating a shimmering and glistening effect. The air is crisp, and the surroundings exude a quiet calmness, inviting a sense of peaceful contemplation. 
+END
+
+LOCATION
+785 786
+5
+You are at the edge of the Landmark.
+You are at the edge of the Landmark. University College is in front of you. 
+END
+
+LOCATION
+939 940
+5
+You are at the edge of the Landmark.
+You are at the edge of the Landmark. University College is in front of you. 
+END
